@@ -1,0 +1,5 @@
+// STRINGS METHODS
+
+
+// Basics Methods
+

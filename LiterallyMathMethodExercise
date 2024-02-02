@@ -1,0 +1,47 @@
+warmHugs = warmHugs .replace("like" , "love")
+console.log(warmHugs); // Hi, I'm Olaf and I love warm hugs
+
+// 2a
+// let beenImpaled = "Oh, look at that. I've been impaled. ";2b
+console.log(beenImpaled.slide(18, 36)); // I've been impaled.
+
+// 3a
+let dotDotDot = "..."
+
+// 3b 
+let skullBones = `I don't hace a skull${dotDotDot} or bones.`
+
+// 4
+console.log(Math.PI); // 3.14159265389793
+
+// 5
+const randomNumber = Math.random() * 3;
+randomNumber = Math.floor(randomNumber) +1;
+console.log(randomNumber);
+
+// BONUS
+// 6
+console.log(" Let It GO!".toUpperCase().repeat(2)); // LET IT GO! LET IT GO!
+// console.log(" LET IT GO!".repeat(2).trim());
+// console.log(" LET IT GO! LET IT GO!".trim());
+
+// 7a
+let reindeers = "Reindeers are better than people.";
+
+// 7b
+console.log(reindeers.replaceAll(/ /g, "_"));
+// console.log(reindeers.replace(" ", "_"));
+
+// 8
+console.log(Math.SQRT2); // 1.4142135623730951
+
+// 9
+// let newRandomNumber = 7 + floor(Math.random() * 21)
+// console.log(newRandomNumber);
+// newRandomNumber *= 17;
+// newRandomNumber += 7;
+// newRandomNumber = Math.floor(newRandomNumber);
+
+let newRandomNumber = match.floor(Math.random() * 17) + 7;
+console.log(newRandomNumber);
+ 
